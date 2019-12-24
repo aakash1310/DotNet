@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\LINQinDotNet\obj\Debug\LINQinDotNet.csprojAssemblyReference.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\LINQinDotNet\obj\Debug\LINQinDotNet.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\LINQinDotNet\bin\Debug\LINQinDotNet.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\LINQinDotNet\bin\Debug\LINQinDotNet.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\LINQinDotNet\bin\Debug\LINQinDotNet.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\LINQinDotNet\obj\Debug\LINQinDotNet.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\LINQinDotNet\obj\Debug\LINQinDotNet.pdb

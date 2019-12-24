@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Assignment\bin\Debug\Assignment.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Assignment\bin\Debug\Assignment.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Assignment\obj\Debug\Assignment.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Assignment\obj\Debug\Assignment.pdb

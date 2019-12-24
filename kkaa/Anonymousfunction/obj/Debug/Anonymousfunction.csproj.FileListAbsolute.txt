@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Anonymousfunction\bin\Debug\Anonymousfunction.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Anonymousfunction\bin\Debug\Anonymousfunction.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Anonymousfunction\bin\Debug\Anonymousfunction.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Anonymousfunction\obj\Debug\Anonymousfunction.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Anonymousfunction\obj\Debug\Anonymousfunction.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Anonymousfunction\obj\Debug\Anonymousfunction.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Anonymousfunction\obj\Debug\Anonymousfunction.csprojAssemblyReference.cache

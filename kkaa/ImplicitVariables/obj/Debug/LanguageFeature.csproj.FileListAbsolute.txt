@@ -1,0 +1,6 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\ImplicitVariables\bin\Debug\ImplicitVariables.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\ImplicitVariables\bin\Debug\ImplicitVariables.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\ImplicitVariables\bin\Debug\ImplicitVariables.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\ImplicitVariables\obj\Debug\LanguageFeature.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\ImplicitVariables\obj\Debug\ImplicitVariables.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\ImplicitVariables\obj\Debug\ImplicitVariables.pdb

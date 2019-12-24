@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Delegatess\bin\Debug\Delegatess.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Delegatess\bin\Debug\Delegatess.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Delegatess\bin\Debug\Delegatess.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Delegatess\obj\Debug\Delegatess.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Delegatess\obj\Debug\Delegatess.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Delegatess\obj\Debug\Delegatess.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Delegatess\obj\Debug\Delegatess.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\eventHandlings\bin\Debug\eventHandlings.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\eventHandlings\bin\Debug\eventHandlings.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\eventHandlings\bin\Debug\eventHandlings.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\eventHandlings\obj\Debug\eventHandlings.csprojAssemblyReference.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\eventHandlings\obj\Debug\eventHandlings.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\eventHandlings\obj\Debug\eventHandlings.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\eventHandlings\obj\Debug\eventHandlings.pdb

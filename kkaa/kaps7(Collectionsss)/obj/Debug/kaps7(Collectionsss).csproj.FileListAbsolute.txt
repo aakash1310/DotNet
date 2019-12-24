@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\kaps7(Collectionsss)\bin\Debug\kaps7(Collectionsss).exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\kaps7(Collectionsss)\bin\Debug\kaps7(Collectionsss).exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\kaps7(Collectionsss)\bin\Debug\kaps7(Collectionsss).pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\kaps7(Collectionsss)\obj\Debug\kaps7(Collectionsss).csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\kaps7(Collectionsss)\obj\Debug\kaps7(Collectionsss).exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\kaps7(Collectionsss)\obj\Debug\kaps7(Collectionsss).pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\kaps7(Collectionsss)\obj\Debug\kaps7(Collectionsss).csprojAssemblyReference.cache

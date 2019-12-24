@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\TaskInDotNet\bin\Debug\TaskInDotNet.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\TaskInDotNet\bin\Debug\TaskInDotNet.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\TaskInDotNet\bin\Debug\TaskInDotNet.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\TaskInDotNet\obj\Debug\TaskInDotNet.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\TaskInDotNet\obj\Debug\TaskInDotNet.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\TaskInDotNet\obj\Debug\TaskInDotNet.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\TaskInDotNet\obj\Debug\TaskInDotNet.csprojAssemblyReference.cache

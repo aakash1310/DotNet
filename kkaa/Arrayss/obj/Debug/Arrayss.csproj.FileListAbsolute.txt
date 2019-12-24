@@ -1,0 +1,7 @@
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Arrayss\bin\Debug\Arrayss.exe.config
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Arrayss\bin\Debug\Arrayss.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Arrayss\bin\Debug\Arrayss.pdb
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Arrayss\obj\Debug\Arrayss.csprojAssemblyReference.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Arrayss\obj\Debug\Arrayss.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Arrayss\obj\Debug\Arrayss.exe
+C:\Users\labuser\Desktop\kkDotnet\kkaa\Arrayss\obj\Debug\Arrayss.pdb
